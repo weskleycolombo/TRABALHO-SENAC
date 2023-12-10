@@ -60,11 +60,11 @@ body {
     
   }
   .sobre{
-    background-image: url(Our\ Commitment.png);
+    background-image: url(img/Our\ Commitment.png);
    border: 1px solid red;
   }
   footer {
-    background-image: url(Contact\ Details.png);
+    background-image: url(img/Contact\ Details.png);
     padding: 20px;
     text-align: center;
     color: #000000;
